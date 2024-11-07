@@ -61,8 +61,8 @@ To download other songs, simply change the artists :
 
 ```
 music_list = [
-    "John Lennon - Imagine",
+    "Jovem Dionisio - É Osso",
     "Nirvana - In Bloom",
-    "Led Zeppelin Stairway to Heaven"
+    "Pedro Santos - Água Viva"
 ]
 ```
