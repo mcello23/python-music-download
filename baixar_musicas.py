@@ -6,6 +6,7 @@ music_list = [
     "DAO - Her",
     "IDLES - Never Fight A Man With a Perm",
     "Low Roar - I'll Keep Coming",
+    "Fugazi - Bad Mouth"
     "Rodrigo Ogi - Hahaha"
 ]
 
