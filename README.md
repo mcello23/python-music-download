@@ -55,7 +55,7 @@ Simply open terminal and execute:
 python3 baixar_musicas.py
 ```
 
-It will automatically download the songs inside the music_list array, creating a <b>download</b> folder where you set the script.
+It will automatically download the songs inside the music_list array, creating a <b>musicas_baixadas</b> folder where you set the script.
 
 To download other songs, simply change the artists :
 
