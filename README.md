@@ -5,7 +5,7 @@ This project was made with Python to download music from YouTube converting it d
 ## Clone project
 
 ```
-git clone 
+git clone https://github.com/mcello23/python-music-download.git
 ```
 
 ## Necessary software
